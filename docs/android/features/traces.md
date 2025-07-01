@@ -94,7 +94,7 @@ EmbraceSpan activityLoad = Embrace.getInstance().createSpan("load-activity");
 </TabItem>
 </Tabs>
 
-### Create and Start Span Atomically
+### Create and Start Span Automatically
 
 <Tabs groupId="android-language" queryString="android-language">
 <TabItem value="kotlin" label="Kotlin">
